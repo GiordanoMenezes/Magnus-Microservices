@@ -1,0 +1,12 @@
+server:
+  port: 7001
+
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+
+logging:
+  level:
+    root: INFO
+    se.magnus: DEBUG
